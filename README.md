@@ -2,4 +2,4 @@
 Hi, This repo is contains ml models which i am developing in my learning phase
 re
 Tpot AutoML
-
+ Auto-sklearn, PyCaret, AutoGluon, MLBox
